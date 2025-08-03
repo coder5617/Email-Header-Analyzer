@@ -1,0 +1,7 @@
+Return-Path: <newsletter@company.com>
+Received: from mail.company.com ([203.0.113.1]) by mx.recipient.com id X; Mon, 1 Jan 2024 12:00:00 +0000
+From: Company <newsletter@company.com>
+Subject: Monthly Newsletter
+Date: Mon, 1 Jan 2024 12:00:00 +0000
+Message-ID: <msg@company.com>
+Authentication-Results: spf=pass; dkim=pass; dmarc=pass

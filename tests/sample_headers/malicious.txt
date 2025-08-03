@@ -1,0 +1,7 @@
+Return-Path: <malicious@evil.com>
+Received: from unknown ([198.51.100.2]) by mx.victim.com id Z; Mon, 1 Jan 2024 12:00:00 +0000
+From: "Manager" <manager@company.com>
+Subject: CONFIDENTIAL: Password Reset Required
+Date: Mon, 1 Jan 2024 12:00:00 +0000
+Message-ID: <msg@evil.com>
+Authentication-Results: spf=fail; dkim=none; dmarc=fail

@@ -1,0 +1,7 @@
+Return-Path: <fake@bad.com>
+Received: from localhost ([127.0.0.1]) by mx.id; Mon, 1 Jan 2024 12:00:00 +0000
+From: "CEO Fake" <ceo@legit.com>
+Subject: URGENT PAYMENT REQUIRED ASAP
+Date: Mon, 1 Jan 2024 12:00:00 +0000
+Message-ID: <msg@bad.com>
+Authentication-Results: spf=fail; dkim=none; dmarc=fail
