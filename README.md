@@ -15,7 +15,7 @@ Comprehensive email header analysis tool for cybersecurity professionals.
 
 1. **Clone the repository and navigate into it:**
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/coder5617/Email-Header-Analyzer
     cd email-header-analyzer
     ```
 
